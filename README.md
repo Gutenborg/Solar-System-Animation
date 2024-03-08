@@ -1,5 +1,5 @@
 # Solar-System-Animation
-A JavaScript animated model of our solar system using GSAP, React, and TypeScript.
+A JavaScript animated model of our solar system using GSAP, React, and TypeScript. This was done as part of me learning more about how to do animations using the GSAP library.
 
 ## Using Localhost
 
